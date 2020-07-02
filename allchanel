@@ -1,9 +1,29 @@
 #EXTM3U
-#EXTINF:-1,##########   Netherland   ##########
-http://jellyiptv.streamtv.to:8080/fc3ivVuTtT/DgpsES061b/2523
-#EXTINF:-1,NPO 1 NL
-http://jellyiptv.streamtv.to:8080/fc3ivVuTtT/DgpsES061b/75413
-#EXTINF:-1,NPO 1 HD NL
-http://jellyiptv.streamtv.to:8080/fc3ivVuTtT/DgpsES061b/305
-#EXTINF:-1,NPO 1 FHD NL
-http://jellyiptv.streamtv.to:8080/fc3ivVuTtT/DgpsES061b/364
+#EXTINF:-1,********** TDT **********
+http://mitv.me:8000/borja/123456/1
+#EXTINF:-1,LA 1
+http://mitv.me:8000/borja/123456/3
+#EXTINF:-1,LA 1 HD
+http://mitv.me:8000/borja/123456/4
+#EXTINF:-1,LA 1 FHD
+http://mitv.me:8000/borja/123456/6473
+#EXTINF:-1,LA 2
+http://mitv.me:8000/borja/123456/6
+#EXTINF:-1,La 2 FHD
+http://mitv.me:8000/borja/123456/7
+#EXTINF:-1,ANTENA 3
+http://mitv.me:8000/borja/123456/8
+#EXTINF:-1,ANTENA 3 HD
+http://mitv.me:8000/borja/123456/9
+#EXTINF:-1,ANTENA 3 FHD
+http://mitv.me:8000/borja/123456/10
+#EXTINF:-1,CUATRO
+http://mitv.me:8000/borja/123456/11
+#EXTINF:-1,CUATRO HD
+http://mitv.me:8000/borja/123456/12
+#EXTINF:-1,CUATRO FHD
+http://mitv.me:8000/borja/123456/13
+#EXTINF:-1,TELECINCO
+http://mitv.me:8000/borja/123456/14
+#EXTINF:-1,TELECINCO HD
+http://mitv.me:8000/borja/123456/15
